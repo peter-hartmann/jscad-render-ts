@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "target": "ESNext",
+    "jsx": "react"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
