@@ -2,6 +2,8 @@
 
 JSCAD application insipred by https://github.com/jscad, https://openjscad.org, http://opencsg.org and the older https://github.com/evanw/csg.js. 
 
+![Screenshot1](screenshot1.png)
+
 ## How to run
 
     git clone https://github.com/peter-hartmann/jscad-render-ts.git
